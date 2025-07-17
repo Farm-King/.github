@@ -19,7 +19,7 @@ Farm King offers a comprehensive suite of features to manage all aspects of your
 ## Contributing
 
 Farm King is open for contributions! We welcome collaboration and partnership suggestions.
-Please see our [CONTRIBUTING.md](farmking.teck/collaborate) for guidelines.
+Please visit our website for guidelines.
 
 ## Status
 
