@@ -28,7 +28,7 @@ Farm King is under development and will be fully open for both personal and comm
 ## Community & Support
 
 Discussion Forum and Community Coming soon
-- [Discussion and Business](https://farmking.tech/get-started)
+- [Discussion and Business](https://farmking.tech/getting-started)
 ---
 
 **Enclosure:**  
